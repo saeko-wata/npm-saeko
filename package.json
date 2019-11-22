@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "npm package example",
   "main": "index.js",
-  "bin":"bin/sample1",
   "repository": {
     "type": "git",
     "url": "git+http://github.com:saeko-wata/npm-saeko.git"
