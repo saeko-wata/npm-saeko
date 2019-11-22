@@ -1,0 +1,13 @@
+{
+  "name": "@saeko/npm-saeko",
+  "version": "1.0.0",
+  "description": "npm package example",
+  "main": "index.js",
+  "bin":"sample1",
+  "scripts": {
+    "type": "git",
+    "url": "git@github.com:saeko-wata/npm-saeko.git"
+  },
+  "author": "npm-saeko",
+  "license": "MIT"
+}
